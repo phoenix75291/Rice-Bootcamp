@@ -1,1 +1,1 @@
-# Rice-Bootcamp
+# Rice-Bootcamp-Weekly-Assignments
